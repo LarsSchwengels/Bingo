@@ -1,0 +1,57 @@
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.BusinessLogic.deps.json
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.BusinessLogic.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.BusinessLogic.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Entities.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Exceptions.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Repositories.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Entities.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Exceptions.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Repositories.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.AssemblyInfo.cs
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.csproj.CopyComplete
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\refint\Bingo.BusinessLogic.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\ref\Bingo.BusinessLogic.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.BusinessLogic.deps.json
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.BusinessLogic.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.BusinessLogic.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Entities.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Exceptions.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Repositories.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Entities.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Exceptions.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Repositories.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.AssemblyInfo.cs
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.csproj.CopyComplete
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\refint\Bingo.BusinessLogic.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\ref\Bingo.BusinessLogic.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.BusinessLogic.deps.json
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.BusinessLogic.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.BusinessLogic.pdb
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Entities.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Exceptions.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Repositories.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Entities.pdb
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Exceptions.pdb
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\bin\Debug\net6.0\Bingo.Repositories.pdb
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.AssemblyInfo.cs
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.csproj.CopyComplete
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\refint\Bingo.BusinessLogic.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\Bingo.BusinessLogic.pdb
+C:\Users\lsc\source\repos\Bingo\Bingo.BusinessLogic\obj\Debug\net6.0\ref\Bingo.BusinessLogic.dll

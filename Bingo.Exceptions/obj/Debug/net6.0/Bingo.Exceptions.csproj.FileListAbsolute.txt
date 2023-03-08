@@ -1,0 +1,36 @@
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\bin\Debug\net6.0\Bingo.Exceptions.deps.json
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\bin\Debug\net6.0\Bingo.Exceptions.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\bin\Debug\net6.0\Bingo.Exceptions.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.csproj.AssemblyReference.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.AssemblyInfoInputs.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.AssemblyInfo.cs
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\refint\Bingo.Exceptions.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\ref\Bingo.Exceptions.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\bin\Debug\net6.0\Bingo.Exceptions.deps.json
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\bin\Debug\net6.0\Bingo.Exceptions.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\bin\Debug\net6.0\Bingo.Exceptions.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.csproj.AssemblyReference.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.AssemblyInfoInputs.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.AssemblyInfo.cs
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\refint\Bingo.Exceptions.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Exceptions\obj\Debug\net6.0\ref\Bingo.Exceptions.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.Exceptions\bin\Debug\net6.0\Bingo.Exceptions.deps.json
+C:\Users\lsc\source\repos\Bingo\Bingo.Exceptions\bin\Debug\net6.0\Bingo.Exceptions.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.Exceptions\bin\Debug\net6.0\Bingo.Exceptions.pdb
+C:\Users\lsc\source\repos\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.csproj.AssemblyReference.cache
+C:\Users\lsc\source\repos\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsc\source\repos\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.AssemblyInfoInputs.cache
+C:\Users\lsc\source\repos\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.AssemblyInfo.cs
+C:\Users\lsc\source\repos\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\lsc\source\repos\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.Exceptions\obj\Debug\net6.0\refint\Bingo.Exceptions.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.Exceptions\obj\Debug\net6.0\Bingo.Exceptions.pdb
+C:\Users\lsc\source\repos\Bingo\Bingo.Exceptions\obj\Debug\net6.0\ref\Bingo.Exceptions.dll

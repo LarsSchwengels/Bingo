@@ -1,0 +1,51 @@
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Repositories.deps.json
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Repositories.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Repositories.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Entities.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Exceptions.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Entities.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Exceptions.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.csproj.AssemblyReference.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.AssemblyInfoInputs.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.AssemblyInfo.cs
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.csproj.CopyComplete
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\refint\Bingo.Repositories.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\ref\Bingo.Repositories.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Repositories.deps.json
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Repositories.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Repositories.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Entities.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Exceptions.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Entities.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Exceptions.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.csproj.AssemblyReference.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.AssemblyInfoInputs.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.AssemblyInfo.cs
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.csproj.CopyComplete
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\refint\Bingo.Repositories.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Repositories\obj\Debug\net6.0\ref\Bingo.Repositories.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Repositories.deps.json
+C:\Users\lsc\source\repos\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Repositories.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Repositories.pdb
+C:\Users\lsc\source\repos\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Entities.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Exceptions.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Entities.pdb
+C:\Users\lsc\source\repos\Bingo\Bingo.Repositories\bin\Debug\net6.0\Bingo.Exceptions.pdb
+C:\Users\lsc\source\repos\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.csproj.AssemblyReference.cache
+C:\Users\lsc\source\repos\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsc\source\repos\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.AssemblyInfoInputs.cache
+C:\Users\lsc\source\repos\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.AssemblyInfo.cs
+C:\Users\lsc\source\repos\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\lsc\source\repos\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.csproj.CopyComplete
+C:\Users\lsc\source\repos\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.Repositories\obj\Debug\net6.0\refint\Bingo.Repositories.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.Repositories\obj\Debug\net6.0\Bingo.Repositories.pdb
+C:\Users\lsc\source\repos\Bingo\Bingo.Repositories\obj\Debug\net6.0\ref\Bingo.Repositories.dll

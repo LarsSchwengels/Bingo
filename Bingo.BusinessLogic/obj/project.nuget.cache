@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kAGWR1Af0T3L1EzEBdeh518PfaYKOhBVQZf/LucXLi2BpA88cFrQF/7Tjl9mdtESHbihlrCXlvLPoHUX02/Gzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.BusinessLogic\\Bingo.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lsc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\lsc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\lsc\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

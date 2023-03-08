@@ -1,0 +1,45 @@
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\bin\Debug\net6.0\Bingo.Entities.deps.json
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\bin\Debug\net6.0\Bingo.Entities.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\bin\Debug\net6.0\Bingo.Entities.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.csproj.AssemblyReference.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.AssemblyInfoInputs.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.AssemblyInfo.cs
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\refint\Bingo.Entities.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\ref\Bingo.Entities.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\bin\Debug\net6.0\Bingo.Exceptions.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\bin\Debug\net6.0\Bingo.Exceptions.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.csproj.CopyComplete
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\bin\Debug\net6.0\Bingo.Entities.deps.json
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\bin\Debug\net6.0\Bingo.Entities.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\bin\Debug\net6.0\Bingo.Entities.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\bin\Debug\net6.0\Bingo.Exceptions.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\bin\Debug\net6.0\Bingo.Exceptions.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.csproj.AssemblyReference.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.AssemblyInfoInputs.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.AssemblyInfo.cs
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.csproj.CopyComplete
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\refint\Bingo.Entities.dll
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.pdb
+C:\Users\lsc\source\Alles_zur_Ausbildung\WPF_Tutorial\Übungen\Bingo\Bingo\Bingo.Entities\obj\Debug\net6.0\ref\Bingo.Entities.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.Entities\bin\Debug\net6.0\Bingo.Entities.deps.json
+C:\Users\lsc\source\repos\Bingo\Bingo.Entities\bin\Debug\net6.0\Bingo.Entities.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.Entities\bin\Debug\net6.0\Bingo.Entities.pdb
+C:\Users\lsc\source\repos\Bingo\Bingo.Entities\bin\Debug\net6.0\Bingo.Exceptions.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.Entities\bin\Debug\net6.0\Bingo.Exceptions.pdb
+C:\Users\lsc\source\repos\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.csproj.AssemblyReference.cache
+C:\Users\lsc\source\repos\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsc\source\repos\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.AssemblyInfoInputs.cache
+C:\Users\lsc\source\repos\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.AssemblyInfo.cs
+C:\Users\lsc\source\repos\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\lsc\source\repos\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.csproj.CopyComplete
+C:\Users\lsc\source\repos\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.Entities\obj\Debug\net6.0\refint\Bingo.Entities.dll
+C:\Users\lsc\source\repos\Bingo\Bingo.Entities\obj\Debug\net6.0\Bingo.Entities.pdb
+C:\Users\lsc\source\repos\Bingo\Bingo.Entities\obj\Debug\net6.0\ref\Bingo.Entities.dll

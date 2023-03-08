@@ -1,0 +1,138 @@
+﻿<Page x:Class="Bingo.BoardCreation"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Bingo"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1900" x:Name="Board" SizeChanged="OnSizeChanged" Loaded="OnLoaded"
+      Title="BoardCreation" Background="#FFFFFF">
+
+    <StackPanel>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Erstelle dein eigenes Bingo-Board" FontFamily="Khumb Sans" Foreground="#000000" x:Name="Heading" Margin="0,80" TextAlignment="Center" FontSize="70"/>
+            <StackPanel Margin="0,50" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="Config">
+                <Border BorderThickness="3" CornerRadius="100" Background="#eeeeee" x:Name="MainConfigs">
+                    <StackPanel Orientation="Horizontal">
+                        <StackPanel Margin="50,20,25,20" MinWidth="350" x:Name="boardConfig">
+                            <TextBlock Text="Board-Einstellungen" TextAlignment="Center" FontSize="30" FontFamily="Khumb Sans" x:Name="boardConfigHeading"/>
+                            <StackPanel Margin="20,50,20,20" Orientation="Horizontal" x:Name="ChooseName">
+                                <TextBlock Text="Name:" Width="200" FontFamily="Inter Light" FontSize="25" x:Name="Name"/>
+                                <Grid Margin="50,2,0,2" x:Name="ChosenNameGrid">
+                                    <TextBox Width="160" BorderBrush="#797979" BorderThickness="1" FontFamily="Inter Light" FontSize="12" VerticalContentAlignment="Center" x:Name="ChosenName"/>
+                                    <TextBlock IsHitTestVisible="False" Text="Namen eingeben" VerticalAlignment="Center" Margin="5,0,0,0"
+                                           HorizontalAlignment="Left" Foreground="DarkGray" x:Name="Placeholder" FontSize="8">
+                                        <TextBlock.Style>
+                                            <Style TargetType="{x:Type TextBlock}">
+                                                <Setter Property="Visibility" Value="Collapsed"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding Text, ElementName=ChosenName}" Value="">
+                                                        <Setter Property="Visibility" Value="Visible"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </TextBlock.Style>
+                                    </TextBlock>
+                                </Grid>
+                            </StackPanel>
+                            <StackPanel Margin="20,40,20,20" Orientation="Horizontal" x:Name="ChooseSize">
+                                <TextBlock Text="Board-Größe:" Width="200" FontFamily="Inter Light" FontSize="25" x:Name="Size"/>
+                                <ComboBox Width="160" Margin="50,2,0,2" BorderBrush="#797979" BorderThickness="1" FontFamily="Inter Light" FontSize="14" Background="White" 
+                                          SelectedIndex="0" VerticalContentAlignment="Center" x:Name="boardSize" SelectionChanged="OnSelectionChanged">
+                                    <ComboBox.Items>
+                                        <ComboBoxItem Content="4x4"/>
+                                        <ComboBoxItem Content="5x5"/>
+                                        <ComboBoxItem Content="6x6"/>
+                                    </ComboBox.Items>
+                                </ComboBox>
+                            </StackPanel>
+                            <StackPanel Margin="20,40,20,20" Orientation="Horizontal" x:Name="ChooseBackgroundColor">
+                                <TextBlock Text="Hintergrundfarbe:" Width="220" FontFamily="Inter Light" FontSize="25" x:Name="BackgroundColor"/>
+                                <ComboBox Width="160" Margin="30,2,0,2" BorderBrush="#797979" BorderThickness="1" FontFamily="Inter Light" FontSize="14" VerticalContentAlignment="Center"
+                                          ItemsSource="{Binding ElementName=Board, Path=ColorList}" SelectedIndex="3" MaxDropDownHeight="200" x:Name="gridBackground" SelectionChanged="OnSelectionChanged"/>
+                            </StackPanel>
+                            <StackPanel Margin="20,40,20,20" Orientation="Horizontal" x:Name="ChooseBorderColor">
+                                <TextBlock Text="Kantenfarbe:" Width="200" FontFamily="Inter Light" FontSize="25" x:Name="BorderColor"/>
+                                <ComboBox Width="160" Margin="50,2,0,2" BorderBrush="#797979" BorderThickness="1" FontFamily="Inter Light" FontSize="14" VerticalContentAlignment="Center"
+                                          ItemsSource="{Binding ElementName=Board, Path=ColorList2}" SelectedIndex="0" MaxDropDownHeight="200" x:Name="borderColor" SelectionChanged="OnSelectionChanged"/>
+                            </StackPanel>
+                            <StackPanel Margin="20,40,20,20" Orientation="Horizontal" x:Name="ChooseFontColor">
+                                <TextBlock Text="Schriftfarbe:" Width="200" FontFamily="Inter Light" FontSize="25" x:Name="FontColor"/>
+                                <ComboBox Width="160" Margin="50,2,0,2" BorderBrush="#797979" BorderThickness="1" FontFamily="Inter Light" FontSize="14" VerticalContentAlignment="Center"
+                                          ItemsSource="{Binding ElementName=Board, Path=ColorList3}" SelectedIndex="4" MaxDropDownHeight="200" x:Name="fontColor" SelectionChanged="OnSelectionChanged"/>
+                            </StackPanel>
+                            <StackPanel Margin="20,40,20,20" Orientation="Horizontal" x:Name="ChooseFontFamily">
+                                <TextBlock Text="Schriftart:" Width="200" FontFamily="Inter Light" FontSize="25" x:Name="FontFam"/>
+                                <ComboBox Width="160" Margin="50,2,0,2" BorderBrush="#797979" BorderThickness="1" FontSize="10" VerticalContentAlignment="Center"
+                                          SelectedIndex="0" MaxDropDownHeight="150" ItemsSource="{x:Static Fonts.SystemFontFamilies}" x:Name="Font" SelectionChanged="OnSelectionChanged">
+                                    <ComboBox.ItemTemplate>
+                                        <DataTemplate>
+                                            <TextBlock Text="{Binding}" FontFamily="{Binding}"/>
+                                        </DataTemplate>
+                                    </ComboBox.ItemTemplate>
+                                </ComboBox>
+                            </StackPanel>
+                            <StackPanel Margin="20,40,20,20" Orientation="Horizontal" x:Name="ChooseLightingMode">
+                                <TextBlock Text="Helligkeitsmodus:" Width="220" FontFamily="Inter Light" FontSize="25" x:Name="Lighting"/>
+                                <Button x:Name="LightingMode" Height="28" Width="28" Margin="100,0,0,0" Background="#eeeeee" BorderThickness="0.5" Click="OnLightingModeChanged"
+                                        VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+                                    <Button.Content>
+                                        <Image Source="img/LightMode.png"/>
+                                    </Button.Content>
+                                </Button>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="50,20,25,20" x:Name="entryList">
+                            <TextBlock Text="Eintragsliste" TextAlignment="Center" FontSize="30" FontFamily="Khumb Sans" x:Name="EntriesHeading"/>
+                            <TextBlock TextAlignment="Center" TextWrapping="Wrap" MaxWidth="300" Margin="30" FontSize="13" FontFamily="Inter Light" x:Name="EntriesInfo">
+                                Hier kannst du entweder via Drag &amp; Drop oder Suche im Explorer
+                                <Run Text="eine" FontFamily="Inter SemiBold"/>
+                                Textdatei (
+                                <Run Text=".txt" FontFamily="Inter SemiBold"/>
+                                ) einfügen, die die Eintragsliste enthält, oder manuell Einträge hinzufügen.
+                                <LineBreak></LineBreak>
+                                Es gilt: Jede Zeile entspricht einem Eintrag.
+                                <LineBreak></LineBreak>
+                                Doppelte Einträge sind möglich.
+                            </TextBlock>
+                            <TextBlock HorizontalAlignment="Left" FontSize="11" FontFamily="Inter Light" x:Name="EntriesCounter" Margin="20,0,0,0"/>
+                            <TextBox Height="350" TextWrapping="NoWrap" BorderBrush="#797979" BorderThickness="2" x:Name="EntriesTextBox" 
+                                         AcceptsReturn="True" AllowDrop="True" Margin="10,0" PreviewDragOver="OnPreviewDragOver" Drop="OnFileLoaded" TextChanged="OnTextChanged"/>
+                            <Button Content="Datei suchen..." VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,30,0,0" 
+                                    FontFamily="Inter SemiBold" FontSize="18" MinWidth="160" Background="#FFFFFF" Click="OnSearchFile">
+                                <Button.Resources>
+                                    <Style TargetType="Border">
+                                        <Setter Property="CornerRadius" Value="8"/>
+                                    </Style>
+                                </Button.Resources>
+                            </Button>
+                        </StackPanel>
+                    </StackPanel>
+                </Border>
+                <Image Source="img/PfeilRechts.jpg" Height="220" Width="220" Margin="20,0" x:Name="Arrow"/>
+                <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Border BorderThickness="3" CornerRadius="60" Background="#1464f0" MinWidth="300" MinHeight="310" x:Name="PreviewBorder">
+                        <Border.Effect>
+                            <DropShadowEffect Color="#1464f0" ShadowDepth="0" BlurRadius="15"/>
+                        </Border.Effect>
+                        <StackPanel>
+                            <TextBlock Text="Vorschau" FontSize="20" Foreground="White" FontFamily="Inter SemiBold" Margin="0,20" HorizontalAlignment="Center" x:Name="PreviewHeading"/>
+                            <Grid x:Name="boardPreview" ShowGridLines="False" Width="200" Height="200"/>
+                        </StackPanel>
+                    </Border>
+                    <Button FontSize="30" Background="#eb413c" Content="Spiel starten" Margin="40,40,40,0" FontFamily="Khumb Sans" 
+                            x:Name="PlayGame" Click="OnPlayGame" BorderThickness="0" Foreground="White" Height="60" >
+                        <Button.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="20"/>
+                            </Style>
+                        </Button.Resources>
+                        <Button.Effect>
+                            <DropShadowEffect Color="#eb413c" ShadowDepth="0" BlurRadius="10"></DropShadowEffect>
+                        </Button.Effect>
+                    </Button>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Page>

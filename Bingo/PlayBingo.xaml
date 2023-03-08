@@ -1,0 +1,55 @@
+﻿<Page x:Class="Bingo.PlayBingo"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Bingo"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1900" Background="#FFFFFF" Loaded="OnOpened" Title="Bingo" SizeChanged="OnSizeChanged">
+    
+    <Page.Resources>
+        <Style TargetType="Button" x:Key="GameActionButton">
+            <Setter Property="Background" Value="#1464f0"/>
+            <Setter Property="Foreground" Value="#FFFFFF"/>
+            <Setter Property="Margin" Value="30,60"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Height" Value="50"/>
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="FontFamily" Value="Inter SemiBold"/>
+        </Style>
+    </Page.Resources>
+    <StackPanel VerticalAlignment="Center" Orientation="Horizontal" HorizontalAlignment="Center">
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Margin="40,10,0,10" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" x:Name="boardName" FontSize="50" TextWrapping="Wrap" Width="300"/>
+            <StackPanel Margin="20,150,20,20" HorizontalAlignment="Center" Orientation="Horizontal">
+                <TextBlock x:Name="BingoCounter" FontSize="25" FontFamily="Inter SemiBold" Foreground="Black" Margin="10,0,5,0"/>
+                <TextBlock FontSize="25" FontFamily="Inter SemiBold" Foreground="Black" Text="Bingo(s)" Margin="10,0,5,0" x:Name="bingos"/>
+            </StackPanel>
+        </StackPanel>
+        <Grid x:Name="Board" Height="800" Width="800" Margin="100,0,0,0"></Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="100,0,0,0">
+            <Button Style="{StaticResource ResourceKey=GameActionButton}" Content="Neues Board erstellen" Width="200" Click="OnCreateNew">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="20"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Style="{StaticResource ResourceKey=GameActionButton}" Content="Neustart &amp; Mischen" Width="200" Click="OnRestart">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="20"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Style="{StaticResource ResourceKey=GameActionButton}" Content="Schließen &amp; Speichern" Width="200" Click="OnClose">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="20"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </StackPanel>
+    </StackPanel>
+</Page>
