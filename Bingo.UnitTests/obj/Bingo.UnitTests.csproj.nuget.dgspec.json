@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.UnitTests\\Bingo.UnitTests.csproj": {}
+    "C:\\source\\repos\\Bingo\\Bingo.UnitTests\\Bingo.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.BusinessLogic\\Bingo.BusinessLogic.csproj": {
+    "C:\\source\\repos\\Bingo\\Bingo.BusinessLogic\\Bingo.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.BusinessLogic\\Bingo.BusinessLogic.csproj",
+        "projectUniqueName": "C:\\source\\repos\\Bingo\\Bingo.BusinessLogic\\Bingo.BusinessLogic.csproj",
         "projectName": "Bingo.BusinessLogic",
-        "projectPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.BusinessLogic\\Bingo.BusinessLogic.csproj",
-        "packagesPath": "C:\\Users\\lsc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.BusinessLogic\\obj\\",
+        "projectPath": "C:\\source\\repos\\Bingo\\Bingo.BusinessLogic\\Bingo.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\LarsSchwengels\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\Bingo\\Bingo.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lsc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LarsSchwengels\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,20 +26,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/amagnodms/amagno/_packaging/AmagnoNugetPackages/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj": {
-                "projectPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj"
+              "C:\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj": {
+                "projectPath": "C:\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj"
               },
-              "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj": {
-                "projectPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj"
+              "C:\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj": {
+                "projectPath": "C:\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj"
               },
-              "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Repositories\\Bingo.Repositories.csproj": {
-                "projectPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Repositories\\Bingo.Repositories.csproj"
+              "C:\\source\\repos\\Bingo\\Bingo.Repositories\\Bingo.Repositories.csproj": {
+                "projectPath": "C:\\source\\repos\\Bingo\\Bingo.Repositories\\Bingo.Repositories.csproj"
               }
             }
           }
@@ -71,21 +76,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj": {
+    "C:\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj",
+        "projectUniqueName": "C:\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj",
         "projectName": "Bingo.Entities",
-        "projectPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj",
-        "packagesPath": "C:\\Users\\lsc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Entities\\obj\\",
+        "projectPath": "C:\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj",
+        "packagesPath": "C:\\Users\\LarsSchwengels\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\Bingo\\Bingo.Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lsc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LarsSchwengels\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,14 +102,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/amagnodms/amagno/_packaging/AmagnoNugetPackages/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj": {
-                "projectPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj"
+              "C:\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj": {
+                "projectPath": "C:\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj"
               }
             }
           }
@@ -130,21 +140,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj": {
+    "C:\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj",
+        "projectUniqueName": "C:\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj",
         "projectName": "Bingo.Exceptions",
-        "projectPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj",
-        "packagesPath": "C:\\Users\\lsc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Exceptions\\obj\\",
+        "projectPath": "C:\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\LarsSchwengels\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\Bingo\\Bingo.Exceptions\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lsc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LarsSchwengels\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -152,7 +166,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/amagnodms/amagno/_packaging/AmagnoNugetPackages/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -185,21 +200,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Repositories\\Bingo.Repositories.csproj": {
+    "C:\\source\\repos\\Bingo\\Bingo.Repositories\\Bingo.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Repositories\\Bingo.Repositories.csproj",
+        "projectUniqueName": "C:\\source\\repos\\Bingo\\Bingo.Repositories\\Bingo.Repositories.csproj",
         "projectName": "Bingo.Repositories",
-        "projectPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Repositories\\Bingo.Repositories.csproj",
-        "packagesPath": "C:\\Users\\lsc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Repositories\\obj\\",
+        "projectPath": "C:\\source\\repos\\Bingo\\Bingo.Repositories\\Bingo.Repositories.csproj",
+        "packagesPath": "C:\\Users\\LarsSchwengels\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\Bingo\\Bingo.Repositories\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lsc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LarsSchwengels\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -207,17 +226,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/amagnodms/amagno/_packaging/AmagnoNugetPackages/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj": {
-                "projectPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj"
+              "C:\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj": {
+                "projectPath": "C:\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj"
               },
-              "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj": {
-                "projectPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj"
+              "C:\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj": {
+                "projectPath": "C:\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj"
               }
             }
           }
@@ -253,21 +273,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.UnitTests\\Bingo.UnitTests.csproj": {
+    "C:\\source\\repos\\Bingo\\Bingo.UnitTests\\Bingo.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.UnitTests\\Bingo.UnitTests.csproj",
+        "projectUniqueName": "C:\\source\\repos\\Bingo\\Bingo.UnitTests\\Bingo.UnitTests.csproj",
         "projectName": "Bingo.UnitTests",
-        "projectPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.UnitTests\\Bingo.UnitTests.csproj",
-        "packagesPath": "C:\\Users\\lsc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.UnitTests\\obj\\",
+        "projectPath": "C:\\source\\repos\\Bingo\\Bingo.UnitTests\\Bingo.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\LarsSchwengels\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\Bingo\\Bingo.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lsc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LarsSchwengels\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -275,23 +299,24 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/amagnodms/amagno/_packaging/AmagnoNugetPackages/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.BusinessLogic\\Bingo.BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.BusinessLogic\\Bingo.BusinessLogic.csproj"
+              "C:\\source\\repos\\Bingo\\Bingo.BusinessLogic\\Bingo.BusinessLogic.csproj": {
+                "projectPath": "C:\\source\\repos\\Bingo\\Bingo.BusinessLogic\\Bingo.BusinessLogic.csproj"
               },
-              "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj": {
-                "projectPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj"
+              "C:\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj": {
+                "projectPath": "C:\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj"
               },
-              "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj": {
-                "projectPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj"
+              "C:\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj": {
+                "projectPath": "C:\\source\\repos\\Bingo\\Bingo.Exceptions\\Bingo.Exceptions.csproj"
               },
-              "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Repositories\\Bingo.Repositories.csproj": {
-                "projectPath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Repositories\\Bingo.Repositories.csproj"
+              "C:\\source\\repos\\Bingo\\Bingo.Repositories\\Bingo.Repositories.csproj": {
+                "projectPath": "C:\\source\\repos\\Bingo\\Bingo.Repositories\\Bingo.Repositories.csproj"
               }
             }
           }
@@ -355,7 +380,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

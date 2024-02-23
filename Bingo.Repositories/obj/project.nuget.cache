@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TaU8sRptJ/w1HkpbqMaJHPOvPHyhxXSSCccPSJ/dC6aZE6Ph1nDxV8uVfksJvmvbCrxVrKYzCkdw03AB4DHdpA==",
+  "dgSpecHash": "IPEtCyI5pA/cHkdoZFMSr1MBx5y2M70XrhNr+Lru9nwU5EYIORj8F4nw0jm0FWLr5Pb1IAeVMwDn970hN7gOsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Repositories\\Bingo.Repositories.csproj",
+  "projectFilePath": "C:\\source\\repos\\Bingo\\Bingo.Repositories\\Bingo.Repositories.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lsc\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+    "C:\\Users\\LarsSchwengels\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],
   "logs": []
 }

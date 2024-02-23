@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\lsc\source\repos\Bingo\Bingo\obj\Debug\net6.0-windows\
+C:\source\repos\Bingo\Bingo\obj\Debug\net6.0-windows\
 Bingo
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\lsc\source\repos\Bingo\Bingo\App.xaml
+C:\source\repos\Bingo\Bingo\App.xaml
 3-1834279297
 
 6629170988
-202568605025
+202-515670910
 BoardCreation.xaml;MainWindow.xaml;PlayBingo.xaml;
 
-False
+True
 

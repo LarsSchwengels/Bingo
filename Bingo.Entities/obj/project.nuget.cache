@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z/tjolnhLCFwA1ouFK6G9/bXDHg1e8ZVE8neEpYvCJdeUu0c0+gKCmsL0NLiuXSRHoi3Q5Ne/bQ47LJdSqyjpQ==",
+  "dgSpecHash": "SNa2rTmpWBpKuFkRPP7ZQc5s7JGWck8iYQAVJRqC3M5XbCPShtIcMy87NbApSaQW6d8pliCokiYFfsVYkHZvdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lsc\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj",
+  "projectFilePath": "C:\\source\\repos\\Bingo\\Bingo.Entities\\Bingo.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
